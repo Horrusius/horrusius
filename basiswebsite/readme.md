@@ -80,8 +80,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
-<img src="images/eerstepaginablender.png" width="375px" alt="home pagina">
+<img src="images/eerstepaginablender.PNG" width="375px" alt="home pagina">
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="images/tweedepaginablender.png" width="375px" alt="features pagina">
+<img src="images/tweedepaginablender.PNG" width="375px" alt="features pagina">
