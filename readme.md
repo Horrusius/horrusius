@@ -39,11 +39,13 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 ### Stand van zaken
 
 -dit ging goed & dit was lastig-
+
 Nog niet super veel gedaan. Niet echt veel problemen. Wil even checken of de html basis klopt zodat ik later in het proces geen problemen tegenkom.
 
 **Screenshot(s):**
 
 -screenshot(s) van hoe ver je bent met korte uitleg-
+
 <img src="images/eerstecheckup.PNG" width="375px" alt="eerstecheckup">
 
 ### Agenda voor meeting
