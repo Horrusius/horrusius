@@ -30,8 +30,33 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 2 (week 5)
 
--same as voortgang 1-
+-dit ging goed & dit was lastig-
 
+Ben tegen wat dingen aangelopen betreffende mijn header en eeste afbeelding. Deze problemen zijn nu opgelost met de hulp van Sanne. Ben wel erg blij met de styling van de verschillende elementen.
+
+**Screenshot(s):**
+
+-screenshot(s) van hoe ver je bent met korte uitleg-
+
+<img src="images/tweedecheckupphone.PNG" width="375px" alt="tweedecheckupmobiel">
+
+<img src="images/tweedecheckupdesktop.PNG" width="375px" alt="tweedecheckupdesktop">
+
+Omdat ik bezig ben met responsive kant van de opdracht heb ik alvast de stijling van zowel de mobiele als de desktop vanriant (op een minimale breedte van 56em) gemaakt.
+
+### Agenda voor meeting
+
+-samen met je groepje opstellen-
+
+| Midas                                  | Moon                          | Patrick      | student 4        |
+| ---                                    | ---                           | ---          | ---              |
+| dit bespreken: Section 2 styling       | en dit:                       | en ik dit    | en dan ik dat    |
+| en dat ook nog                         | dit als er tijd is            | nog een punt | dit wil ik zeker |
+| ...                                    | ...                           | ...          | ...              |
+
+### Verslag van meeting
+
+-na afloop snel uitkomsten vastleggen-
 
 
 ## Voortgang 1 (week 3)
@@ -48,6 +73,8 @@ Nog niet super veel gedaan. Niet echt veel problemen. Wil even checken of de htm
 
 <img src="images/eerstecheckup.PNG" width="375px" alt="eerstecheckup">
 
+Dit is voor nu hoe de basis van mijn website is opgebouwd.
+
 ### Agenda voor meeting
 
 -samen met je groepje opstellen-
@@ -55,13 +82,14 @@ Nog niet super veel gedaan. Niet echt veel problemen. Wil even checken of de htm
 | Midas                                  | Moon                          | Patrick      | student 4        |
 | ---                                    | ---                           | ---          | ---              |
 | dit bespreken: Snelle basiscode check  | en dit: Grid en Responsiveness| en ik dit    | en dan ik dat    |
-| an dat ook nog                         | dit als er tijd is            | nog een punt | dit wil ik zeker |
+| en dat ook nog                         | dit als er tijd is            | nog een punt | dit wil ik zeker |
 | ...                                    | ...                           | ...          | ...              |
 
 ### Verslag van meeting
 
 -na afloop snel uitkomsten vastleggen-
 
+Moest een paar buttons veranderen naar links, maar voor de rest leek alles wel goed te zijn.
 
 
 ## Breakdownschets (week 1)
