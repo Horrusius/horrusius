@@ -24,7 +24,27 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 3 (week 6)
 
--same as voortgang 1-
+-dit ging goed & dit was lastig-
+
+Heb nogsteeds moeite met het maken van de eerste grote koptekst. De stijling krijg ik nog niet helemaal goed. Ben wel blij dat ik de animatie in die koptekst wel heb kunnen maken.
+
+**Screenshot(s):**
+
+-screenshot(s) van hoe ver je bent met korte uitleg-
+
+<img src="images/derdecheckupphone.PNG" width="375px" alt="derdecheckupmobiel">
+
+<img src="images/derdecheckupphonetwee.PNG" width="375px" alt="derdecheckupmobiel">
+
+<img src="images/derdecheckupphonemenu.PNG" width="375px" alt="derdecheckupmobiel">
+
+-samen met je groepje opstellen-
+
+| Midas                                  | Moon                          | Patrick      | student 4        |
+| ---                                    | ---                           | ---          | ---              |
+| dit bespreken: koptekst styling        | en dit:                       | en ik dit    | en dan ik dat    |
+| en dat ook nog                         | dit als er tijd is            | nog een punt | dit wil ik zeker |
+| ...                                    | ...                           | ...          | ...              |
 
 ### Verslag van Screenreader ervaring
 
