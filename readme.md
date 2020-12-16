@@ -26,6 +26,9 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 -same as voortgang 1-
 
+### Verslag van Screenreader ervaring
+
+Het gebruiken van de screenreader leek prima. De verschillende links en koppen werder opgelezen en het leek me wel redelijk duidelijk wat de verschillende linkjes deden.
 
 
 ## Voortgang 2 (week 5)
