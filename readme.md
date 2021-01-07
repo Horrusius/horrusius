@@ -6,9 +6,11 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Bronnenlijst
-1. -bron 1-
-2. -bron 2-
-3. -...-
+1. https://css-tricks.com/almanac/
+2. Lessen van Sanne
+3. https://developer.mozilla.org/
+4. https://stackoverflow.com/
+5. https://bennettfeely.com/clippy/
 
 
 
@@ -16,10 +18,27 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 -dit ging goed & dit was lastig-
 
+Ben wezen knoeien met polygons voor de download pagina wat nog best wel lastig bleek. Ik heb me vooral gefocusd op de styling, er zijn dus wat elementen (vooral op de hoofdpagina) die er niet zijn. Dit leek mij prima omdat de verschillende elementen die ik er nog bij zou moeten voegen hebben allemaal dezelfde type code nodig en vaak zelfs minder dan wat ik bij de elementen heb gedaan die er wel staan. Het heeft nog een beetje moeite gekost om alles responsive te krijgen, vooral omdat de Blender website eigenlijk ook niet zo goed is geoptimaliseerd voor mobiel. Dus ik moest het een en ander zelf bedenken. Voor de hoofdpagina is dat uiteindelijk best goed gelukt en voor de download pagina is dat redelijk gegaan.
+
 **Screenshot(s):**
 
 -screenshot(s) van je eindresultaat-
 
+<img src="images/eindresultaathoofdpaginamobiel.PNG" width="375px" alt="hoofdpagina">
+
+<img src="images/eindresultaatdownloadpaginamobieltwee.PNG" width="375px" alt="hoofdpagina">
+
+<img src="images/eindresultaatmenumobiel.PNG" width="375px" alt="menu">
+
+<img src="images/eindresultaatdownloadpaginamobiel.PNG" width="375px" alt="downloadpagina">
+
+<img src="images/eindresultaatdownloadpaginamobieltwee.PNG" width="375px" alt="downloadpagina">
+
+<img src="images/eindresultaathoofdpaginadesktop.PNG" width="375px" alt="hoofdpaginadesktop">
+
+<img src="images/eindresultaatdownloadpaginadesktop.PNG" width="375px" alt="downloadpaginadesktop">
+
+<img src="images/eindresultaatdownloadpaginadesktoptwee.PNG" width="375px" alt="downloadpaginadesktop">
 
 
 ## Voortgang 3 (week 6)
@@ -48,7 +67,7 @@ Heb nogsteeds moeite met het maken van de eerste grote koptekst. De stijling kri
 
 ### Verslag van Screenreader ervaring
 
-Het gebruiken van de screenreader leek prima. De verschillende links en koppen werder opgelezen en het leek me wel redelijk duidelijk wat de verschillende linkjes deden.
+Het gebruiken van de screenreader leek prima. De verschillende links en koppen werder opgelezen en het leek me wel redelijk duidelijk wat de verschillende linkjes deden. De meeste afbeeldingen op de website zijn achtergrond afbeeldingen waar een link aan gekoppelt is. Het is me niet helemaal gelukt dit werkende te krijgen, maar door gewoon een alt toe te voegen die duidelijk maakt waar de afbeelding heen leidt was best duidelijk. De navigatie leek mij over het algemeen best goed te doen. Ook is het me gelukt langs alle elementen te komen d.m.v. de Tab knop.
 
 
 ## Voortgang 2 (week 5)
